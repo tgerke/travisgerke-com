@@ -3,6 +3,8 @@ title = "johndoe"
 
 theme = "hugo-coder"
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 languagecode = "en"
 defaultcontentlanguage = "en"
 
