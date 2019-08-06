@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "johndoe"
+title = "travisgerke"
 
 theme = "hugo-coder"
 
@@ -15,23 +15,23 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Travis Gerke, ScD"
+    description = "Travis Gerke's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarurl = "images/avatar.jpg"
+    info = "Epidemiologist • Biostatistician • Data Scientist"
+    avatarurl = "images/travisgerkecrop.jpg"
     footercontent = "Enter a text here."
 
-    dateformat = "January 2, 2006"
+    dateformat = "2006-01-02"
 
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    #commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
     rtl = false
 
