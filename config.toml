@@ -42,7 +42,7 @@ pygmentscodefencesguesssyntax = true
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["academicons.min.css"]
+    custom_css = ["academicons.min.css", "css/all.min.css"]
     
     # Custom JS
     custom_js = []
