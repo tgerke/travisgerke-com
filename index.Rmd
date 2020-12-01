@@ -16,32 +16,32 @@ I am jointly trained as a statistician and epidemiologist. I apply these skills 
 
 ## Education
 
-**Harvard T.H. Chan School of Public Health** | Boston, MA
-
+**Harvard T.H. Chan School of Public Health** | Boston, MA<br>
 Sc.D. in Epidemiology | 2014
 
-**Harvard University** | Cambridge, MA
-
+**Harvard University** | Cambridge, MA<br>
 A.M. in Biostatistics | 2011
 
-**University of Florida** | Gainesville, FL
-
+**University of Florida** | Gainesville, FL<br>
 B.A. in Mathematics | 2009<br>
 B.S. in Statistics | 2009
 
 ## Experience
 
-**Moffitt Cancer Center** | Tampa, FL
-
+**Moffitt Cancer Center** | Tampa, FL<br>
 Health Informatics Director | 2020 - Present<br>
 Scientific Director of Collaborative Data Services | 2018 - Present<br>
 Assistant Member, Cancer Epidemiology | 2016 - 2020
 
-**Harvard T.H. Chan School of Public Health** | Boston, MA
-
+**Harvard T.H. Chan School of Public Health** | Boston, MA<br>
 Visiting Scientist, Department of Epidemiology | 2014-2020
 
-**University of Florida** | Gainesville, FL
-
+**University of Florida** | Gainesville, FL<br>
 Assistant Professor, Epidemiology | 2014 - 2016
 
+```{css, echo=FALSE}
+h2 {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+```
