@@ -46,3 +46,9 @@ Visiting Scientist, Department of Epidemiology | 2014-2020
 
 **University of Florida** | Gainesville, FL<br>
 Assistant Professor, Epidemiology | 2014 - 2016
+
+```{css, echo=FALSE}
+.p-2 h1 {
+  font-size: 2em;
+}
+```
