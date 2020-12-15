@@ -14,6 +14,11 @@ links:
             gs$attribs$viewBox <- "0 0 448 512"; 
             gs`'
     url: "https://scholar.google.com/citations?user=mP-fw2gAAAAJ"
+  - label: '`r mat_des <- icon::icon_set("icons");
+            mat_des("biotech-24px")`'
+    url: "https://www.gerkelab.com/" 
+  - label: '`r mat_des("history_edu-24px")`'
+    url: "https://github.com/tgerke/CV"
 output:
   postcards::trestles
 ---
