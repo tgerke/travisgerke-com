@@ -1,5 +1,5 @@
 ---
-title: "Travis Gerke"
+title: "Travis Gerke, ScD"
 image: "travis-gerke.jpg"
 links:
   - label: '`r icon::fontawesome("linkedin-in")`'
@@ -10,12 +10,14 @@ links:
     url: "https://github.com/tgerke"
   - label: '`r icon::fontawesome("envelope")`'
     url: "mailto:travisgerke@gmail.com"
-  - label: '`r icon::academicons("google-scholar")`'
+  - label: '`r gs <- icon::academicons("google-scholar"); 
+            gs$attribs$viewBox <- "0 0 448 512"; 
+            gs`'
     url: "https://scholar.google.com/citations?user=mP-fw2gAAAAJ"
 output:
   postcards::trestles
 ---
- 
+
 ## Bio
 
 I am jointly trained as a statistician and epidemiologist. I apply these skills as a data science leader to guide data collection strategies (epidemiology) that will enable optimal insights and robust decision-making from downstream consumption (statistical translation).
@@ -44,4 +46,3 @@ Visiting Scientist, Department of Epidemiology | 2014-2020
 
 **University of Florida** | Gainesville, FL<br>
 Assistant Professor, Epidemiology | 2014 - 2016
-
