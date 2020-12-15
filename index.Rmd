@@ -2,14 +2,16 @@
 title: "Travis Gerke"
 image: "travis-gerke.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r icon::fontawesome("linkedin-in")`'
     url: "https://www.linkedin.com/in/travisgerke"
-  - label: Twitter
+  - label: '`r icon::fontawesome("twitter")`'
     url: "https://twitter.com/travisgerke"
-  - label: GitHub
+  - label: '`r icon::fontawesome("github")`'
     url: "https://github.com/tgerke"
-  - label: Email
+  - label: '`r icon::fontawesome("envelope")`'
     url: "mailto:travisgerke@gmail.com"
+  - label: '`r icon::academicons("google-scholar")`'
+    url: "https://scholar.google.com/citations?user=mP-fw2gAAAAJ"
 output:
   postcards::trestles
 ---
