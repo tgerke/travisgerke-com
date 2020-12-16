@@ -10,6 +10,7 @@ links:
     url: "https://github.com/tgerke"
   - label: '`r icon::fontawesome("envelope")`'
     url: "mailto:travisgerke@gmail.com"
+links-row2:
   - label: '`r gs <- icon::academicons("google-scholar"); 
             gs$attribs$viewBox <- "0 0 448 512"; 
             gs`'
@@ -51,9 +52,3 @@ Visiting Scientist, Department of Epidemiology | 2014-2020
 
 **University of Florida** | Gainesville, FL<br>
 Assistant Professor, Epidemiology | 2014 - 2016
-
-```{css, echo=FALSE}
-.p-2 h1 {
-  font-size: 2em;
-}
-```
