@@ -1,3 +1,54 @@
 ---
-site: blogdown:::blogdown_site
+title: "Travis Gerke, ScD"
+image: "travis-gerke.jpg"
+links:
+  - label: '`r icon::fontawesome("linkedin-in")`'
+    url: "https://www.linkedin.com/in/travisgerke"
+  - label: '`r icon::fontawesome("twitter")`'
+    url: "https://twitter.com/travisgerke"
+  - label: '`r icon::fontawesome("github")`'
+    url: "https://github.com/tgerke"
+  - label: '`r icon::fontawesome("envelope")`'
+    url: "mailto:travisgerke@gmail.com"
+links-row2:
+  - label: '`r gs <- icon::academicons("google-scholar"); 
+            gs$attribs$viewBox <- "0 0 448 512"; 
+            gs`'
+    url: "https://scholar.google.com/citations?user=mP-fw2gAAAAJ"
+  - label: '`r mat_des <- icon::icon_set("icons");
+            mat_des("biotech-24px")`'
+    url: "https://www.gerkelab.com/" 
+  - label: '`r mat_des("history_edu-24px")`'
+    url: "https://github.com/tgerke/CV"
+output:
+  postcards::trestles
 ---
+
+## Bio
+
+I am jointly trained as a statistician and epidemiologist. I apply these skills as a data science leader to guide data collection strategies (epidemiology) that will enable optimal insights and robust decision-making from downstream consumption (statistical translation).
+
+## Education
+
+**Harvard T.H. Chan School of Public Health** | Boston, MA<br>
+Sc.D. in Epidemiology | 2014
+
+**Harvard University** | Cambridge, MA<br>
+A.M. in Biostatistics | 2011
+
+**University of Florida** | Gainesville, FL<br>
+B.A. in Mathematics | 2009<br>
+B.S. in Statistics | 2009
+
+## Experience
+
+**Moffitt Cancer Center** | Tampa, FL<br>
+Health Informatics Director | 2020 - Present<br>
+Scientific Director of Collaborative Data Services | 2018 - Present<br>
+Assistant Member, Cancer Epidemiology | 2016 - 2020
+
+**Harvard T.H. Chan School of Public Health** | Boston, MA<br>
+Visiting Scientist, Department of Epidemiology | 2014-2020
+
+**University of Florida** | Gainesville, FL<br>
+Assistant Professor, Epidemiology | 2014 - 2016
