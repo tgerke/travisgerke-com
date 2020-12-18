@@ -30,7 +30,7 @@ output:
 
 ## Bio
 
-As academic faculty, I led cancer-focused research teams in the application / development of tools for applied <font class="highlight">machine learning, causal inference, and biostatistics</font>. In the post-academic setting, I direct data science efforts in <font class="highlight">cloud-based informatics and advanced analytics</font> with a focus in the healthcare sector.
+As academic faculty, I led cancer-focused research teams in the application / development of tools for applied <span class="highlight">machine learning, causal inference, and biostatistics</span>. In the post-academic setting, I direct data science efforts in <span class="highlight">cloud-based informatics and advanced analytics</span> with a focus in the healthcare sector.
 
 ## Education
 
