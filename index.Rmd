@@ -1,6 +1,10 @@
 ---
 title: "Travis Gerke, ScD"
 image: "travis-gerke.jpg"
+titles:
+  - description: "Statistician"
+  - description: "Data Scientist"
+  - description: "Informaticist"
 links:
   - label: '`r icon::fontawesome("linkedin-in")`'
     url: "https://www.linkedin.com/in/travisgerke"
@@ -55,6 +59,12 @@ Assistant Professor, Epidemiology | 2014 - 2016
 
 ```{css echo=FALSE}
 .highlight{
-  color: #a7414a;
+  color: #D16103; 
+}
+.highlight-secondary {
+  color: #4E84C4;
+}
+.section.level2 h2 {
+  color: #4E84C4;
 }
 ```
