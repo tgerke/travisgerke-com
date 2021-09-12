@@ -6,20 +6,20 @@ titles:
   - description: "Data Scientist"
   - description: "Informaticist"
 links:
-  - label: '`r icon::fontawesome("linkedin-in")`'
+  - label: '`r icons::fontawesome("linkedin-in")`'
     url: "https://www.linkedin.com/in/travisgerke"
-  - label: '`r icon::fontawesome("twitter")`'
+  - label: '`r icons::fontawesome("twitter")`'
     url: "https://twitter.com/travisgerke"
-  - label: '`r icon::fontawesome("github")`'
+  - label: '`r icons::fontawesome("github")`'
     url: "https://github.com/tgerke"
-  - label: '`r icon::fontawesome("envelope")`'
+  - label: '`r icons::fontawesome("envelope")`'
     url: "mailto:travisgerke@gmail.com"
 links-row2:
-  - label: '`r gs <- icon::academicons("google-scholar"); 
+  - label: '`r gs <- icons::academicons("google-scholar"); 
             gs$attribs$viewBox <- "0 0 448 512"; 
             gs`'
     url: "https://scholar.google.com/citations?user=mP-fw2gAAAAJ"
-  - label: '`r mat_des <- icon::icon_set("icons");
+  - label: '`r mat_des <- icons::icon_set("icons");
             mat_des("biotech-24px")`'
     url: "https://www.gerkelab.com/" 
   - label: '`r mat_des("history_edu-24px")`'
@@ -30,7 +30,7 @@ output:
 
 ## Bio
 
-As academic faculty, I led cancer-focused research teams in the application / development of tools for applied <span class="highlight">machine learning, causal inference, and biostatistics</span>. In the post-academic setting, I direct data science efforts in <span class="highlight">cloud-based informatics and advanced analytics</span> with a focus in the healthcare sector.
+As academic faculty, I led cancer-focused research teams in the application / development of tools for applied <span class="highlight">machine learning, causal inference, and biostatistics</span>. In the post-academic setting, I direct data science efforts in <span class="highlight">cloud-based informatics and advanced analytics</span> with a focus in oncology clinical trials.
 
 ## Education
 
@@ -46,9 +46,12 @@ B.S. in Statistics | 2009
 
 ## Experience
 
+**The Prostate Cancer Clinical Trials Consortium (PCCTC)** | New York, NY<br>
+Director of Data Science | 2021 - Present
+
 **Moffitt Cancer Center** | Tampa, FL<br>
-Health Informatics Director | 2020 - Present<br>
-Scientific Director of Collaborative Data Services | 2018 - Present<br>
+Health Informatics Director | 2020 - 2021<br>
+Scientific Director of Collaborative Data Services | 2018 - 2021<br>
 Assistant Member, Cancer Epidemiology | 2016 - 2020
 
 **Harvard T.H. Chan School of Public Health** | Boston, MA<br>
