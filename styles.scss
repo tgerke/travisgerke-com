@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+/* Colors */
+$body-bg: #FFFFFF;
+$body-color: rgb(55, 58, 60);
+$link-color: #4E84C4;
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 17px;
+
+/* layout */
+// The left hand sidebar
+$grid-sidebar-width: 200px !default;
+
+// The main body
+$grid-body-width: 1000px !default;
+
+// The right hand margin bar
+$grid-margin-width: 200px !default;
+
+// The gutter that appears between the above columns
+$grid-column-gutter-width: 1.5rem !default;
+
+/*-- scss:rules --*/
+
+.highlight{
+  color: #D16103; 
+}
+.highlight-secondary {
+  color: #4E84C4;
+}
+h2 {
+  color: #4E84C4;
+}

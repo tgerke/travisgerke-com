@@ -1,0 +1,55 @@
+---
+title: "Travis Gerke, ScD"
+subtitle: '<span class="highlight-secondary">Data Scientist</span> <span class="highlight">|</span> <span class="highlight-secondary">Entrepreneur</span>'
+image: travis-gerke.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 14em
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/travisgerke/
+    - text: '{{< iconify fa6-brands bluesky >}}'
+      href: https://bsky.app/profile/travisgerke.bsky.social
+    - text: '{{< iconify academicons google-scholar-square >}}'
+      href: https://scholar.google.com/citations?user=mP-fw2gAAAAJ&hl=en
+    - icon: github
+      href: https://github.com/tgerke/
+    - text: '{{< iconify fa6-solid envelope >}}'
+      url: "mailto:travisgerke@gmail.com"
+---
+
+## About
+
+For over a decade, I have led data science teams in the application and development of tools for applied <span class="highlight">machine learning, causal inference, and biostatistics</span>. I currently serve as co-founder of [cStructure](https://cstructure.io/), which delivers software for causal <span class="highlight">storyboard engineering</span>; director of data science for <span class="highlight">oncologic clinical trials</span>; and co-author of the book [Causal Inference in R](https://www.r-causal.org/).
+
+## Education
+
+**Harvard T.H. Chan School of Public Health** | Boston, MA<br>
+Sc.D. in Epidemiology | 2014
+
+**Harvard University** | Cambridge, MA<br>
+A.M. in Biostatistics | 2011
+
+**University of Florida** | Gainesville, FL<br>
+B.A. in Mathematics | 2009<br>
+B.S. in Statistics | 2009
+
+## Experience
+
+**The Prostate Cancer Clinical Trials Consortium (PCCTC)** | New York, NY<br>
+Director of Data Science | 2021 - Present
+
+**cStructure, LLC** | San Diego, CA<br>
+Co-founder, Chief Analytics Officer | 2023 - Present
+
+**Moffitt Cancer Center** | Tampa, FL<br>
+Health Informatics Director | 2020 - 2021<br>
+Scientific Director of Collaborative Data Services | 2018 - 2021<br>
+Assistant Member, Cancer Epidemiology | 2016 - 2020
+
+**Harvard T.H. Chan School of Public Health** | Boston, MA<br>
+Visiting Scientist, Department of Epidemiology | 2014-2020
+
+**University of Florida** | Gainesville, FL<br>
+Assistant Professor, Epidemiology | 2014 - 2016
