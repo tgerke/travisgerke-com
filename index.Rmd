@@ -6,18 +6,15 @@ titles:
   - description: "Data Scientist"
   - description: "Informaticist"
 links:
-  - label: '`r icons::fontawesome("linkedin-in")`'
+  - label: '<i class="fa-brands fa-linkedin fa-3x" style="color:#0c64c4">'
     url: "https://www.linkedin.com/in/travisgerke"
-  - label: '`r icons::fontawesome("twitter")`'
-    url: "https://twitter.com/travisgerke"
+  - label: 'BlueSky'
+    url: "https://bsky.app/profile/travisgerke.bsky.social"
   - label: '`r icons::fontawesome("github")`'
     url: "https://github.com/tgerke"
   - label: '`r icons::fontawesome("envelope")`'
     url: "mailto:travisgerke@gmail.com"
-links-row2:
-  - label: '`r gs <- icons::academicons("google-scholar"); 
-            gs$attribs$viewBox <- "0 0 448 512"; 
-            gs`'
+  - label: '<i class="ai ai-google-scholar-square ai-3x" style="color:#4387f6"></i>'
     url: "https://scholar.google.com/citations?user=mP-fw2gAAAAJ"
   - label: '`r mat_des <- icons::icon_set("icons");
             mat_des("biotech-24px")`'
