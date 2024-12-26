@@ -1,16 +1,22 @@
 ---
 title: "Travis Gerke, ScD"
-subtitle: "Statistician | Data Scientist | Entrepreneur"
+subtitle: "Data Scientist | Entrepreneur"
 image: travis-gerke.jpg
 about:
   template: trestles
   image-shape: rounded
   image-width: 14em
   links:
-    - icon: github
-      href: https://github.com
     - icon: linkedin
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/travisgerke/
+    - text: '{{< iconify fa6-brands bluesky >}}'
+      href: https://bsky.app/profile/travisgerke.bsky.social
+    - text: '{{< iconify academicons google-scholar-square >}}'
+      href: https://scholar.google.com/citations?user=mP-fw2gAAAAJ&hl=en
+    - icon: github
+      href: https://github.com/tgerke/
+    - text: '{{< iconify fa6-solid envelope >}}'
+      url: "mailto:travisgerke@gmail.com"
 ---
 
 As academic faculty, I led cancer-focused research teams in the application / development of tools for applied <span class="highlight">machine learning, causal inference, and biostatistics</span>. In the post-academic setting, I direct data science efforts in <span class="highlight">cloud-based informatics and advanced analytics</span> with a focus in oncology clinical trials.
