@@ -11,3 +11,15 @@ $link-color: rgb(39, 128, 227);
 /* Fonts */
 $font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+.highlight{
+  color: #D16103; 
+}
+.highlight-secondary {
+  color: #4E84C4;
+}
+.section.level2 h2 {
+  color: #4E84C4;
+}
