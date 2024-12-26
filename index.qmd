@@ -21,7 +21,7 @@ about:
 
 ## About
 
-As academic faculty, I led cancer-focused research teams in the application / development of tools for applied <span class="highlight">machine learning, causal inference, and biostatistics</span>. In the post-academic setting, I direct data science efforts in <span class="highlight">cloud-based informatics and advanced analytics</span> with a focus in oncology clinical trials.
+For over a decade, I have led data science teams in the application and development of tools for applied <span class="highlight">machine learning, causal inference, and biostatistics</span>. I currently serve as co-founder of [cStructure](https://cstructure.io/), which delivers software for causal <span class="highlight">storyboard engineering</span>; director of data science for <span class="highlight">oncologic clinical trials</span>; and co-author of the book [Causal Inference in R](https://www.r-causal.org/).
 
 ## Education
 
