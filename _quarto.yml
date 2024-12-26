@@ -4,7 +4,6 @@ project:
 website:
   title: "Home"
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
-  page-footer: "Made with ❤️ and Quarto"
   navbar:
     right:
       - text: Home
