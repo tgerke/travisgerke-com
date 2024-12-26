@@ -1,31 +1,19 @@
 ---
 title: "Travis Gerke, ScD"
-image: "travis-gerke.jpg"
-titles:
-  - description: "Statistician"
-  - description: "Data Scientist"
-  - description: "Informaticist"
-links:
-  - label: '<i class="fa-brands fa-linkedin fa-3x" style="color:#0c64c4">'
-    url: "https://www.linkedin.com/in/travisgerke"
-  - label: 'BlueSky'
-    url: "https://bsky.app/profile/travisgerke.bsky.social"
-  - label: '`r icons::fontawesome("github")`'
-    url: "https://github.com/tgerke"
-  - label: '`r icons::fontawesome("envelope")`'
-    url: "mailto:travisgerke@gmail.com"
-  - label: '<i class="ai ai-google-scholar-square ai-3x" style="color:#4387f6"></i>'
-    url: "https://scholar.google.com/citations?user=mP-fw2gAAAAJ"
-  - label: '`r mat_des <- icons::icon_set("icons");
-            mat_des("biotech-24px")`'
-    url: "https://www.gerkelab.com/" 
-  - label: '`r mat_des("history_edu-24px")`'
-    url: "https://github.com/tgerke/CV"
-output:
-  postcards::trestles
+subtitle: "Statistician | Data Scientist | Entrepreneur"
+image: travis-gerke.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
 ---
-
-## Bio
 
 As academic faculty, I led cancer-focused research teams in the application / development of tools for applied <span class="highlight">machine learning, causal inference, and biostatistics</span>. In the post-academic setting, I direct data science efforts in <span class="highlight">cloud-based informatics and advanced analytics</span> with a focus in oncology clinical trials.
 
@@ -46,6 +34,9 @@ B.S. in Statistics | 2009
 **The Prostate Cancer Clinical Trials Consortium (PCCTC)** | New York, NY<br>
 Director of Data Science | 2021 - Present
 
+**cStructure, LLC** | San Diego, CA<br>
+Co-founder, Chief Analytics Officer | 2023 - Present
+
 **Moffitt Cancer Center** | Tampa, FL<br>
 Health Informatics Director | 2020 - 2021<br>
 Scientific Director of Collaborative Data Services | 2018 - 2021<br>
@@ -56,15 +47,3 @@ Visiting Scientist, Department of Epidemiology | 2014-2020
 
 **University of Florida** | Gainesville, FL<br>
 Assistant Professor, Epidemiology | 2014 - 2016
-
-```{css echo=FALSE}
-.highlight{
-  color: #D16103; 
-}
-.highlight-secondary {
-  color: #4E84C4;
-}
-.section.level2 h2 {
-  color: #4E84C4;
-}
-```

@@ -1,0 +1,72 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Travis Gerke, ScD\"\n",
+        "subtitle: \"Statistician | Data Scientist | Entrepreneur\"\n",
+        "image: travis-gerke.jpg\n",
+        "about:\n",
+        "  template: trestles\n",
+        "  image-shape: round\n",
+        "  image-width: 14em\n",
+        "  links:\n",
+        "    - icon: github\n",
+        "      text: Github\n",
+        "      href: https://github.com\n",
+        "    - icon: linkedin\n",
+        "      text: LinkedIn\n",
+        "      href: https://linkedin.com\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "As academic faculty, I led cancer-focused research teams in the application / development of tools for applied <span class=\"highlight\">machine learning, causal inference, and biostatistics</span>. In the post-academic setting, I direct data science efforts in <span class=\"highlight\">cloud-based informatics and advanced analytics</span> with a focus in oncology clinical trials.\n",
+        "\n",
+        "## Education\n",
+        "\n",
+        "**Harvard T.H. Chan School of Public Health** | Boston, MA<br>\n",
+        "Sc.D. in Epidemiology | 2014\n",
+        "\n",
+        "**Harvard University** | Cambridge, MA<br>\n",
+        "A.M. in Biostatistics | 2011\n",
+        "\n",
+        "**University of Florida** | Gainesville, FL<br>\n",
+        "B.A. in Mathematics | 2009<br>\n",
+        "B.S. in Statistics | 2009\n",
+        "\n",
+        "## Experience\n",
+        "\n",
+        "Workplace \\| Job title \\| April 20XX - present\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "```{css echo=FALSE}\n",
+        ".highlight{\n",
+        "  color: #D16103; \n",
+        "}\n",
+        ".highlight-secondary {\n",
+        "  color: #4E84C4;\n",
+        "}\n",
+        ".section.level2 h2 {\n",
+        "  color: #4E84C4;\n",
+        "}\n",
+        "```"
+      ],
+      "id": "dedcc38e"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
