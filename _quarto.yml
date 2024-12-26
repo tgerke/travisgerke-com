@@ -4,10 +4,10 @@ project:
 website:
   title: "Home"
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
-  navbar:
-    right:
-      - text: Home
-        href: index.qmd
+  # navbar:
+  #   right:
+  #     - text: Home
+  #       href: index.qmd
       
 format:
   html:
