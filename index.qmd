@@ -4,14 +4,12 @@ subtitle: "Statistician | Data Scientist | Entrepreneur"
 image: travis-gerke.jpg
 about:
   template: trestles
-  image-shape: round
+  image-shape: rounded
   image-width: 14em
   links:
     - icon: github
-      text: Github
       href: https://github.com
     - icon: linkedin
-      text: LinkedIn
       href: https://linkedin.com
 ---
 
