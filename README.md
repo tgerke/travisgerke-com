@@ -2,11 +2,12 @@
 
 Personal site. Hand-written HTML and CSS, no build step, no dependencies.
 
-- `index.html` — the whole site
-- `styles.css` — styling, with light/dark via `prefers-color-scheme`
-- `assets/travis-gerke.jpg` — headshot
-- `favicon.svg` — tab icon, plus `favicon.ico` and `apple-touch-icon.png` for browsers that skip SVG icons
-- `CNAME` — custom domain for GitHub Pages
+- `index.html`: the whole site
+- `404.html`: not-found page
+- `styles.css`: styling, with light/dark via `prefers-color-scheme`
+- `assets/travis-gerke.jpg`: headshot
+- `favicon.svg`: tab icon, plus `favicon.ico` and `apple-touch-icon.png` for browsers that skip SVG icons
+- `CNAME`: custom domain for GitHub Pages
 
 ## Deploying
 
